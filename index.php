@@ -30,5 +30,4 @@ try{
 }
 
 echo "<pre>"; print_r($resp); echo "</pre>";
-echo "done<br>";
 ?>
